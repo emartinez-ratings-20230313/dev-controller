@@ -1,0 +1,4 @@
+variables:
+- team: emartinez-ratings-20230313
+- admin-user: EMartinez-demo-admin
+- manager-user: EMartinez-demo
